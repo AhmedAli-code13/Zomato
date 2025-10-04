@@ -1,0 +1,8 @@
+category_encoders==2.8.1
+gdown==5.2.0
+joblib==1.4.2
+numpy==2.3.3
+pandas==2.3.3
+plotly==6.0.0
+scikit_learn==1.7.2
+streamlit==1.41.1
